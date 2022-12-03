@@ -1,7 +1,8 @@
 ::UserId and UserName can be changed
 ::create a folder named "map" in your editor path e.g. C:\MCStudioDownload\MCPresetEditor\map
-::put your map (base_game_version =< 1.18.0) folder in the folder that you created
-::change SaveBackMapPath to your map folder e.g. C:\\MCStudioDownload\\MCPresetEditor\\Map\\world_test (mao folder name is world_test)
+::Put your map folder (base_game_version =< 1.18.0) in the folder that you created
+::change SaveBackMapPath to your map folder e.g. C:\\MCStudioDownload\\MCPresetEditor\\Map\\world_test (the map folder name is world_test)
+
 @echo off
 title Minecraft NetEase Edition Editor Launcher v1.0
 cd C:\MCStudioDownload\MCPresetEditor

@@ -14,11 +14,11 @@ echo {"Account": "","AssertCacheDir": "C:\\MCStudioDownload\\EngineAssert","Bloc
 echo Please edit Studio.json
 "C:\MCStudioDownload\MCPresetEditor\studio.json"
 echo Starting MCEditor
-MC_Editor.exe studio.json
+"C:\MCStudioDownload\MCPresetEditor\MC_Editor.exe" studio.json
 exit
 :open_file
 echo Find Studio.json, please edit Studio.json
 "C:\MCStudioDownload\MCPresetEditor\studio.json"
 echo Starting MCEditor
-MC_Editor.exe studio.json
+"C:\MCStudioDownload\MCPresetEditor\MC_Editor.exe" studio.json
 exit
